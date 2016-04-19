@@ -1,7 +1,7 @@
 # Weather_Node_Android
 weather forecast using connected android phones! (requires barometer as a built in sensor)
 
-forecast algorithm developed courtesy
+forecast algorithm developed courtesy (Still needs work)
 
 https://www.easycalculation.com/analytical/learn-least-square-regression.php
 
