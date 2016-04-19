@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Forecast Application</string>
+    <string name="server">Server</string>
+    <string name="client">Client</string>
+    <string name="message">Message</string>
+    <string name="ip">IP Address</string>
+    <string name="server_ip_address">Server IP Address</string>
+    <string name="connect">Connect</string>
+    <string name="force_send">Start</string>
+    <string name="stop">Stop</string>
+    <string name="pressure">Pressure</string>
+    <string name="location">Location</string>
+    <string name="rate">Rate</string>
+    <string name="around_location">Around Location</string>
+    <string name="forecast">Forecast</string>
+    <string name="separator">Separator</string>
+</resources>
